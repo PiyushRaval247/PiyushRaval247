@@ -34,9 +34,27 @@
 
 📫 **Connect with Me**
 
-- 🔗 [Portfolio Website](https://piyushraval.netlify.app/)
+- 🔗 [Portfolio Website](https://piyush-raval.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/piyush-raval-939594261)
 - 📧 piyushraval2474@gmail.com
+
+---
+
+☕ **Support Me**
+
+<p align="left">
+  <a href="https://coff.ee/piyushraval" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+📝 **Read My Blog**
+
+<p align="left">
+  <a href="https://my-blog-piyush.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-Visit%20Now-blue?style=for-the-badge&logo=hashnode" alt="Blog Button"/>
+  </a>
+</p>
 
 ---
 
