@@ -58,14 +58,6 @@
 
 ---
 
-📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushraval&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushraval&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushraval&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ⚡ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
